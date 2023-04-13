@@ -10,9 +10,12 @@ use starter() function to generate the first word
 
 ### STEP 3
 recieve status input in the form of 
-+ => not in right position
-_ => not in word
-letters => letter is in correct position
+
+'+' => not in right position
+
+'_' => not in word
+
+'letters' => letter is in correct position
 
 ### STEP 4
 filter out the letters and words from the word list accordingly 
